@@ -165,6 +165,10 @@ int macierz::main()
     przyklad3.print();
 
 }
+macierz::~macierz()
+{
+    
+}
 
 int main()
 {
