@@ -15,6 +15,7 @@ class macierz
     public:
     macierz(int x, int y);
     macierz(int x);
+    ~macierz();
     void set(int n,int m,int val);
     void get(int n, int m);
     void print();
