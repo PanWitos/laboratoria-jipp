@@ -1,0 +1,3 @@
+C:/Users/Witos/projects/labjipp/lab4/build/CMakeFiles/edit_cache.dir
+C:/Users/Witos/projects/labjipp/lab4/build/CMakeFiles/main.dir
+C:/Users/Witos/projects/labjipp/lab4/build/CMakeFiles/rebuild_cache.dir
