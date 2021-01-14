@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/lab6/main.hpp
+iostream
+-
+stdlib.h
+-
+vector
+-
+fstream
+-
+map
+-
+string
+-
+algorithm
+-
+utility
+-
+
+C:/Users/Witos/projects/labjipp/lab6/src/hr.cpp
+lab6/main.hpp
+-
+
+C:/Users/Witos/projects/labjipp/lab6/src/main.cpp
+lab6/main.hpp
+-
+
