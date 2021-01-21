@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/lab5/main.hpp
+iostream
+-
+stdlib.h
+-
+vector
+-
+fstream
+-
+list
+-
+
+C:/Users/Witos/projects/labjipp/lab5/src/macierze.cpp
+lab5/main.hpp
+-
+
